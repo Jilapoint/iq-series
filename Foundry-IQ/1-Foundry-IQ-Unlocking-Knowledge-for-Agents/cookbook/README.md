@@ -54,7 +54,7 @@ FOUNDRY_PROJECT_RESOURCE_ID=/subscriptions/<sub>/resourceGroups/<rg>/providers/M
 
 **Where to find these values:** All values except `FOUNDRY_PROJECT_RESOURCE_ID` are available in the deployment **Outputs** tab in the Azure portal. To find the project resource ID, go to [Microsoft Foundry](https://ai.azure.com) → your project → **Overview** → **Properties** and copy the full ARM resource ID.
 
-For CLI deployment and cleanup instructions, see the [Infrastructure Guide](../../infra/README.md).
+For CLI deployment and cleanup instructions, see the [Infrastructure Guide](../../../infra/README.md).
 
 ## 📓 Cookbook Notebook
 

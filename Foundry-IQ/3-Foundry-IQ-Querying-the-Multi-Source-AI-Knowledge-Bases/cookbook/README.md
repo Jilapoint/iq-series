@@ -51,7 +51,7 @@ AOAI_GPT_DEPLOYMENT=gpt-4o-mini
 
 **Where to find these values:** All values are available in the deployment **Outputs** tab in the Azure portal.
 
-For CLI deployment and cleanup instructions, see the [Infrastructure Guide](../../infra/README.md).
+For CLI deployment and cleanup instructions, see the [Infrastructure Guide](../../../infra/README.md).
 
 ## 📓 Cookbook Notebook
 

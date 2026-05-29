@@ -1,6 +1,6 @@
-# Episode 1 Lab: Data, context, and tools at scale
+# Episode 1 Cookbook: Data, context, and tools at scale
 
-This folder contains the hands-on lab for Episode 1 of The Work IQ Series.
+This folder contains the hands-on cookbook for Episode 1 of The Work IQ Series.
 
 ## 📋 Prerequisites
 

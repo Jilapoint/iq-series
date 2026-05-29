@@ -1,6 +1,6 @@
-# Episode 2 Lab: A2A for Context‑Aware, Agentic Experiences
+# Episode 2 Cookbook: A2A for Context‑Aware, Agentic Experiences
 
-This folder contains the hands-on lab for Episode 2 of The Work IQ Series.
+This folder contains the hands-on cookbook for Episode 2 of The Work IQ Series.
 
 ## 📋 Prerequisites
 
